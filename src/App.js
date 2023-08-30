@@ -1,7 +1,5 @@
-import MyTable from "./components/MyTable";
-
 function App() {
-  return <MyTable></MyTable>;
+  return <div>React</div>;
 }
 
 export default App;
